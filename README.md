@@ -25,7 +25,7 @@ This code supports all essential functions for **RS232 communication**, includin
 ---
 
 ## 🖥️ Description
-The code includes a **simple menu interface**, allowing you to **read and write all parameters** in an easy operation mode.
+The code includes a **simple menu interface**, allowing you to **read and write all parameters** in an easy operation mode at **9600 Baud**.
 Enter the menu by typing `?` followed by **Carriage Return (CR)**.
 
 ### Menu Options
@@ -53,4 +53,5 @@ Device, datasheet, pictures, and some text are property of **ScioSense B.V.**
 This is a **private project**.  
 
 This code is provided as-is, without any warranty or liability.
+
 
